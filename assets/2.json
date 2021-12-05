@@ -1,0 +1,19 @@
+{
+    "name": "PJN",
+    "symbol": "PJN",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "G3hDPyrz5NfZdsiFsLrvVHsH8BYeiZ3P7hLRyeq3BXpB",
+          "share": 100
+        }
+      ]
+    }
+}

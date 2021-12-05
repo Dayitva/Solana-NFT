@@ -1,0 +1,19 @@
+{
+    "name": "Priyanka",
+    "symbol": "Priyanka",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "G3hDPyrz5NfZdsiFsLrvVHsH8BYeiZ3P7hLRyeq3BXpB",
+          "share": 100
+        }
+      ]
+    }
+}

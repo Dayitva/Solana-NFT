@@ -1,0 +1,19 @@
+{
+    "name": "Logan",
+    "symbol": "Logan",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "G3hDPyrz5NfZdsiFsLrvVHsH8BYeiZ3P7hLRyeq3BXpB",
+          "share": 100
+        }
+      ]
+    }
+}
